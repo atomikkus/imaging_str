@@ -1,0 +1,11 @@
+mistralai==1.6.0
+markdown>=3.4.1
+tqdm==4.67.1
+python-dotenv
+markdown-it-py>=3.0.0
+mdit-plain>=0.3.0
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+python-multipart>=0.0.6
+langsmith==0.3.44
+requests>=2.31.0

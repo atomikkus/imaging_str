@@ -1,0 +1,26 @@
+\test_ngs
+*.env
+.\venv
+/venv
+venv/
+env/
+ENV/
+.env
+.venv
+.pdf
+test_fish
+_pycache_
+
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+test_set/
